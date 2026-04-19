@@ -4,6 +4,6 @@ I am a **Detail-oriented Engineer** specializing in **DevOps and Cloud Infrastru
 
 * 🛠️ **Technical Expertise**: Expertly trained in **AWS, Kubernetes, and Jenkins**, with a track record of completing **17+ industrial tasks** with 100% accuracy.
 * 🏗️ **Core Projects**: Experienced in orchestrating applications on **Amazon EKS**, provisioning infrastructure with **Terraform**, and building robust **CI/CD pipelines**.
-* 🎓 **Education**: Recently completed a 6-month intensive **DevOps program** at GUVI Zen Class (IITM Incubated)[cite: 35].
-* 🐧 **Systems**: Proficient in **Advanced Linux CLI**, **Bash & Python scripting**, and system monitoring with **Prometheus & Grafana**[cite: 12, 24].
-* 🌱 **Current Focus**: Scaling multi-tier deployments and optimizing containerized workloads[cite: 15, 23, 25].
+* 🎓 **Education**: Recently completed a 6-month intensive **DevOps program** at GUVI Zen Class (IITM Incubated)
+* 🐧 **Systems**: Proficient in **Advanced Linux CLI**, **Bash & Python scripting**, and system monitoring with **Prometheus & Grafana*
+* 🌱 **Current Focus**: Scaling multi-tier deployments and optimizing containerized workloads
